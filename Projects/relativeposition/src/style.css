@@ -1,0 +1,28 @@
+body {
+  background-color: #EFEFEF;
+  color: #A9A9A9;
+  font-family: "Book Antiqua", serif; 
+}
+h1 {
+  color: #FF3B3F;
+}
+h2 {
+  position: relative;
+  left: 40px;
+}
+div {
+  position: relative;
+  left: 60px;
+  background-color: #CAEBF2;
+  width: 80%;
+}
+h3 {
+  position: relative;
+  color: #FF3B3F;
+  left: 30px;
+}
+p {
+  position: relative;
+  left: 20px;
+  width: 90%;
+}

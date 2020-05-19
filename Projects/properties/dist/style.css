@@ -1,0 +1,41 @@
+body {
+  background-color: #ffff99;
+}
+
+h1 {
+  border: 2px solid;
+  color:#ff6600;
+  font-family:"Impact";
+  font-size: 2.5em;
+  padding: 10px;
+  width: 800px;
+}
+
+
+h2 {
+  background-color:#ff6600;
+  color:#ffff99;
+  border: 2px solid;
+  width: 800px;
+  font-family:"Courier New";
+  padding: 20px;
+}
+
+ol {
+  font-family:Helvetica;
+  background-color:#ffcc00;
+  color:#ffff99;
+  width: 800px;
+  padding-top:5px;
+}
+
+li {
+  padding:10px;
+}
+
+p {
+  border:2px dotted;
+  padding: 20px;
+  width: 800px;
+  border-color:#ffcc00;
+}

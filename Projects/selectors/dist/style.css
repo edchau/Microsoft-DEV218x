@@ -1,0 +1,21 @@
+h1 {
+  background-color: #ccffcc;
+  color: #336600;
+}
+
+h2   {
+  background-color: #336600;
+  color: #ccffcc;
+}
+
+p, ul, ol    {
+  border: 3px solid;
+}
+
+ /*selector here*/   {
+  background-color: #ffff99;
+}
+
+ /*selector here*/   {
+  text-decoration: underline;
+}
